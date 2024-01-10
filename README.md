@@ -1,7 +1,7 @@
 # odin-recipes
 Recipe test
 Welcome to Odin's Table!
-Odin's table is a collection of recipes inspired by the Odin Project.
+Odin's Table is a collection of recipes inspired by the Odin Project.
 This project highlights the following skills:
     GitHub -
         Creating and maintaining a repository.
