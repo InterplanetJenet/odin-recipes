@@ -10,5 +10,5 @@ This project highlights the following skills:
         Commit and push successfully to GitHub.
     HTML -
         Creating and coding an HTML document;
-        Validating and Testing the document in the browser.
+        Validating and testing the document in the browser.
 Thank you for your support!
